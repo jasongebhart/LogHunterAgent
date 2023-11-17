@@ -63,7 +63,5 @@ http://localhost:8080/logs?filename=chocolatey.log&filter=python&last=10
 ## Testing
 The `tests` folder contains a PowerShell test script called `Get-LogEntries.Tests.ps1`. Run this script against an active Log Hunter Agent after changes are made.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 ```
